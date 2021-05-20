@@ -100,7 +100,6 @@
                 if (isObj) {
                     let i = 0;
                     for (let v of (TempData?.metric || [])) {
-                        console.log('c = ', v)
                         $metric.append(`
                             ${
                             !i ? `<div class="col-2 p-2 text-center rounded" style="background:white;font-weight: 600;">
@@ -153,9 +152,6 @@
                                                             </div>
                                                          `
                                             })
-                                            // this
-
-                                            // append section
                                             $field.append(`<div class="row pt-1">${ele}</div>`)
                                         }
                                     }
