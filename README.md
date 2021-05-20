@@ -4,4 +4,4 @@ Logic of the table : The color of the box will be green if the value is greater 
 
 
 # html-js
-  This is the same project create using pure html,javascript and jquery
+  This is the same project built using pure html, JavaScript and jQuery
